@@ -1,8 +1,6 @@
 # Лабораторная работа №3. Диаграмма последовательности.
 # Игра в кости «Корона и Якорь»
 ---
-***
----
 ## Прецедент "Выбор начального баланса в игре"
 ---
 ![Logo](https://github.com/NEEEEEERO/Igra-kosti-21-/blob/main/Lab%203%20Sequence/images/image%201%20(correct).png?raw=true)
