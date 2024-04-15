@@ -3,9 +3,8 @@
 ---
 ## Прецедент "Выбор начального баланса в игре"
 ---
-![Logo](https://github.com/NEEEEEERO/Igra-kosti-21-/blob/main/Lab%203%20Sequence/images/image%201%20(correct).png?raw=true)
+![alt text](<./3.1.png>)
 ---
-
 | Операция | Создает сеанс для игры |
 |----------|----------|
 | Ссылки    | Прецедент: Выбор начального баланса в игре   |
@@ -14,7 +13,7 @@
 ---
 ## Прецедент "Сделать ставку"
 ---
-![Logo](https://github.com/NEEEEEERO/Igra-kosti-21-/blob/main/Lab%203%20Sequence/images/image%202%20(correct).png?raw=true)
+![alt text](<./3.2.png>)
 ---
 | Операция | Игрок выбирает 3 из 6 фигур и делает на них введенную ставку |
 |----------|----------|
@@ -31,7 +30,7 @@
 ---
 ## Прецедент "Играть"
 ---
-![Logo](https://github.com/NEEEEEERO/Igra-kosti-21-/blob/main/Lab%203%20Sequence/images/image%203%20(correct).png?raw=true)
+![alt text](<./3.3.png>)
 ---
 | Операция | Игрок нажимает на кнопку играть |
 |----------|----------|
